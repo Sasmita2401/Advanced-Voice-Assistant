@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Vosk model folder (large)
+vosk-model-small-en-us-0.15/
+
+# Custom commands / personal data
+custom_commands.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
